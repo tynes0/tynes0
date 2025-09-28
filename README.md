@@ -1,3 +1,3 @@
 ### I can work with 🏳️
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,unrealengine,unity,lua,html,css,js,vscode,visualstudio,cs)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,unrealengine,unity,lua,vscode,visualstudio,cs,html,css,js)
